@@ -1,6 +1,6 @@
 ### Hi there, I'm [Marc Rivas][website] 👋 
 
-## I'm a .NET Developer
+## A .NET Developer
 
 - 🧠 I’m currently learning more about SQL Server
 - 🥅 2022 Goals: Continue to learn and improve my developer skills.
@@ -17,8 +17,26 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visual-studio.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
+
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+
+    
+<br>
+<hr>
+
+### Recent Projects
+
+- 📝 [Devbinge - A Blog About Web Development][devbinge]
+- 🎥 [Cinematic Suite - Watch the Latest Movies][cinema]
+- 🚗 [DealerView - Scan Your Car's Vin Barcode][dealer]
+- 🍿 [HBO Max Clone - My Replica of HBO Max][hbo]
 
 <br>
 <hr>
@@ -31,3 +49,7 @@
 
 [website]: https://marcrivas.com
 [linkedin]: https://linkedin.com/in/marc-rivas
+[devbinge]: https://devbinge.com
+[cinema]: https://cinematic-suite.herokuapp.com/
+[dealer]: https://play.google.com/store/apps/details?id=net.dealerview.dealerviewmobileapp&hl=en_US&gl=US
+[hbo]: https://hbo-react-clone-seven.vercel.app/
