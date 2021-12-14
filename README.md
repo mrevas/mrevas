@@ -1,6 +1,6 @@
 ### Hi there, I'm [Marc Rivas][website] 👋 
 
-## I'm a .NET DEVELOPER
+## I'm a .NET Developer
 
 - 🧠 I’m currently learning more about SQL Server
 - 🥅 2022 Goals: Continue to learn and improve my developer skills.
