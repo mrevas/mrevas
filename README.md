@@ -46,7 +46,7 @@
 - [6 Reasons Why C# is Worth Learning](https://devbinge.com/Posts/Details/6-reasons-why-c-sharp-is-worth-learning)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://marcrivas.com
+[website]: [https://rivas-portfolio-ivory.vercel.app]
 [linkedin]: https://linkedin.com/in/marc-rivas
 [devbinge]: https://devbinge.com
 [cinema]: https://cinematic-suite.herokuapp.com/
